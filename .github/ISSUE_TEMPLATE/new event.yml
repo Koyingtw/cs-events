@@ -11,25 +11,25 @@ body:
         以下內容請遵照「[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)」進行撰寫，感謝你為資訊圈的貢獻！我們會在審核通過後將您上傳的活動更新至行事曆中
   - type: input
     id: Name
-    description: 活動名稱
     attributes:
       label: 活動名稱
+      description: 活動名稱
       placeholder: ex. SITCON 學生計算機年會
     validations:
       required: true
   - type: input
     id: Time
-    description: 活動時間
     attributes: 
       label: 活動時間
+      description: 活動時間
       placehoder: 格式：YYYY-MM-DD 時:分 ~ YYYY-MM-DD 時:分 （24 小時制）
     validations:
       required: true
   - type: input
     id: Location
-    description: 活動地點
     attributes:
       label: 活動地點
+      description: 活動地點
     validations:
       required: true
   - type: textarea
