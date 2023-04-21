@@ -7,7 +7,7 @@ assignees:
 body:
   - type: markdown
     attributes:
-      value: |
+      value: 
         以下內容請遵照「[中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)」進行撰寫，感謝你為資訊圈的貢獻！我們會在審核通過後將您上傳的活動更新至行事曆中
   - type: input
     id: Name
