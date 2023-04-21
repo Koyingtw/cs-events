@@ -22,7 +22,7 @@ body:
     attributes: 
       label: 活動時間
       description: 活動時間
-      placehoder: 格式：YYYY-MM-DD 時:分 ~ YYYY-MM-DD 時:分 （24 小時制）
+      placeholder: 格式：YYYY-MM-DD 時:分 ~ YYYY-MM-DD 時:分 （24 小時制）
     validations:
       required: true
   - type: input
