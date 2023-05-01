@@ -10,10 +10,7 @@
 ## 如何訂閱
 您可以透過以下步驟訂閱此日曆：
 
-1. 開啟 Google 日曆。
-2. 點擊左側的「其他日曆」下拉選單，選擇「從 URL 新增日曆」。
-3. 複製以下網址並貼上：https://calendar.google.com/calendar/u/0?cid=OWIxMTEwMTg5ZmNhZGFlMWNhYWJkZjFmOTBmODRiMWNkZmIyZDJmZGZkYTBjOTEwYjY2OWJjMjRhMGIzMDljZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
-4. 點擊「新增日曆」，即可訂閱成功。
+1. 點擊此連結新增到自己的 Google Calendar：https://calendar.google.com/calendar/u/0?cid=OWIxMTEwMTg5ZmNhZGFlMWNhYWJkZjFmOTBmODRiMWNkZmIyZDJmZGZkYTBjOTEwYjY2OWJjMjRhMGIzMDljZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 
 
 ## 如何投稿
